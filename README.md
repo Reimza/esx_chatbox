@@ -13,3 +13,7 @@ This is a proximity chat script. With a few commands such as OOC, Local Do, whit
 #### Installation
 
 1) Add `start esx_chatbox` to your server.cfg
+
+
+![20200205030249_1](https://user-images.githubusercontent.com/48581838/73785501-f608ec80-47c9-11ea-921f-e1d69c3f0769.jpg)
+![20200205030415_1](https://user-images.githubusercontent.com/48581838/73785512-facda080-47c9-11ea-88bf-5cf2332c8663.jpg)
