@@ -8,7 +8,7 @@ This is a proximity chat script. With a few commands such as OOC, Local Do, whit
 #### Requirements
 - [esx_identity](https://github.com/ESX-Org/esx_identity)
 
-- mythic_notify
+- [mythic_notify] (https://forum.cfx.re/t/dev-resource-mythic-notifications/587071)
 
 #### Installation
 
